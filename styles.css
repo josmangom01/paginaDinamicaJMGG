@@ -26,10 +26,10 @@ h1 {
     padding-left: 20px;
 }
 
-.catalogo td{
+.catalogo td, .catalogo th{
     border: solid;
     font-size: 25px;
-}
+} 
 
 #imagenes {
     text-align: center;
