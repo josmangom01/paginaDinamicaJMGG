@@ -28,6 +28,7 @@ h1 {
 
 .catalogo td{
     border: solid;
+    font-size: 25px;
 }
 
 #imagenes {
@@ -35,7 +36,9 @@ h1 {
 }
 
 .imagen{
-    width: 181px;
+    width: 50%;
+    margin: auto;
+    display: block;
 }
 
 #img1 {
