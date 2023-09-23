@@ -1,0 +1,114 @@
+/*todo el documento centrado y de 90% de la pantalla.*/
+#contenedor {
+    width: 90%;
+    margin: auto;
+}
+
+body {
+    background: #00ffaa;
+}
+
+h1 {
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-size: 40pt;
+    color: #893a08;
+}
+
+.resultado td, .resultado th{
+    padding-right: 20px;
+    padding-left: 20px;
+    border: solid;
+}
+
+.catalogo td{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.catalogo td{
+    border: solid;
+}
+
+#imagenes {
+    text-align: center;
+}
+
+.imagen{
+    width: 181px;
+}
+
+#img1 {
+    height: 181px;
+}
+
+#img2 {
+    height: 181px;
+}
+
+#img3 {
+    height: 181px;
+}
+
+#descripcion {
+    font-size: 30px;
+    border:7px solid #FF9700;
+    background:rgb(148, 217, 233);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-family:Comic Sans MS;
+}
+
+.texto{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border:7px solid #FF9700;
+    background:#ffebcd;
+    font-family:Comic Sans MS;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.submit {
+    margin: auto;
+    display: block;
+}
+
+.resaltar {
+    color: #001eff;
+    font-weight: bold;
+}
+
+.texto p {
+    text-align: justify;
+    font-size: 30px;
+}
+
+form p{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+/*
+.articulo{
+    border:7px solid #FF9700;
+    font-size:24px;
+    font-family:Comic Sans MS;
+    background:aqua;
+}
+.lema{
+    font-family:Brush Script MT;
+    font-size:30pt;
+    background:#F4F137;
+    width:30%;
+    border:7px solid #FF9700;
+    padding:15px;float: left;
+    margin-top:40px;
+    margin-bottom:40px;
+}
+*/
