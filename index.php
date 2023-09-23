@@ -18,10 +18,10 @@
             <h2>Catalogo</h2>
             <table>
                 <?php
-                    $servername = "192.168.1.69";
+                    $servername = "127.0.0.1";
                     $database = "quenas";
-                    $username = "UsuarioRemoto";
-                    $password = "Pass01*";
+                    $username = "User1";
+                    $password = "123";
 
                     // Create connection
                     $conn = mysqli_connect($servername, $username, $password, $database);
