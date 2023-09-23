@@ -17,6 +17,11 @@
 
             <h2>Catalogo</h2>
             <table>
+                <tr>
+                    <th>Modelo</th>
+                    <th>Precio</th>
+                    <th>Imagen<th>
+                </tr>
                 <?php
                     $servername = "127.0.0.1";
                     $database = "quenas";
